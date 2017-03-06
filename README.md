@@ -9,6 +9,10 @@ One to two paragraph statement about your product and what it does.
 
 ![](header.png)
 
+## Team members
+
+<a href="https://github.com/[profile-link]" target="_blank">Team member one</a>
+
 ## Installation
 
 OS X & Linux:
